@@ -46,6 +46,12 @@
         "projectId": "b8ca14a6-a8dc-4966-97bb-85ea8fe6342c"
       }
     },
-    "owner": "josefranciscomejiabaltodano"
+    "owner": "josefranciscomejiabaltodano",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b8ca14a6-a8dc-4966-97bb-85ea8fe6342c"
+    }
   }
 }
